@@ -1,6 +1,6 @@
 # Console-applicaties
 
-Een console-applicatie is een  programma dat zijn in- en uitvoer via een klassiek commando/shell-scherm toont. Een console-applicatie draait  in dezelfde omgeving als wanneer we in Windows een command-prompt openen (via Start-> Uitvoeren-> ``cmd`` [enter] ). We zullen in dze cursus enkel console-applicaties leren maken. Grafische frontends (bv WPF) komen in deze cursus niet aan bod.
+Een console-applicatie is een  programma dat zijn in- en uitvoer via een klassiek commando/shell-scherm toont. Een console-applicatie draait  in dezelfde omgeving als wanneer we in Windows een command-prompt openen (via Start-> Uitvoeren-> ``cmd`` [enter] ). We zullen in deze cursus enkel console-applicaties leren maken. Grafische frontends (bv WPF) komen in deze cursus niet aan bod.
 
 ## ReadLine en WriteLine
 Console-applicaties maken in C# vereist dat je minstens twee belangrijke C# methoden leert gebruiken:
